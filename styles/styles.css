@@ -1,11 +1,27 @@
-#kat {
+#one {
 background-image:
-url('../images/cat03.jpg');
+url('../images/header.jpg');
 background-size:contain;
 background-repeat:none;
-width:100%;
+width:1366px;
 margin:0 auto;
-height: 400px;
+height: 915px;
     
+}
+
+#transparent2 {
+background-image: url('../images/transparent2.png');
+width: 638px;
+margin: 0;
+height: 1150px;
+}
+
+#back {
+background-size: contain;
+background-repeat: none;
+background-color:  rgba(211, 234, 238, 0.8);
+width: 2197px;
+margin: 0 auto;
+height: 8067px;
 }
 
