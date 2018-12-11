@@ -1,13 +1,22 @@
-#one {
-background-image:
-url('../images/header.jpg');
-background-size:contain;
-background-repeat:none;
-width:1366px;
-margin:0 auto;
-height: 915px;
-    
+#wood {
+background-image:url('../images/wood.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+width: 1366px;
+margin: 0 auto;
+height: 7888px;
+width: 100%;
+margin-top: 0%
 }
+
+#h1 {font-family: PragmaticaSlab;
+color: #ffffff;
+font-size: 100px;
+font-weight: 500;
+line-height: 100px;
+text-align: left;
+}
+
 
 #transparent2 {
 background-image: url('../images/transparent2.png');
@@ -16,12 +25,84 @@ margin: 0;
 height: 1150px;
 }
 
+
 #back {
 background-size: contain;
 background-repeat: none;
 background-color:  rgba(211, 234, 238, 0.8);
 width: 2197px;
 margin: 0 auto;
-height: 8067px;
+height: 8200px;
+margin-top: 0%;
 }
 
+.iphone {
+display: block;
+margin-left: 35%;
+margin-top: 5%;
+width: 12%;
+}
+
+.store {
+display: block;
+margin-top: 10%;
+width: 60%;
+}
+
+.iphone4 {
+display: block;
+margin-left: 35%;
+margin-top: 15%;
+width: 13%;
+}
+
+.iphone3 {
+display: block;
+margin-left: 8%;
+margin-top: 20%;
+width: 13%;
+}
+
+
+.iphone5 {
+display: block;
+margin-left: 35%;
+margin-top: 25%;
+width: 13%;
+}
+
+.iphone6 {
+display: block;
+margin-left: 8%;
+margin-top: 30%;
+width: 13%;
+}
+
+
+.iphone8 {
+display: block;
+margin-left: 35%;
+margin-top: 35%;
+width: 15%;
+}
+
+#para1 {
+font-family: PragmaticaSlab;
+color: #ffffff;
+font-size: 50px;
+font-weight: 300;
+text-align: center;
+}
+
+#bottom {
+background-size: contain;
+background-color: #2f8c9d;
+width: 1366px;
+height: 746px;
+}
+
+#h3 {
+background-color:  #2f8c9d;
+width: 1366px;
+height: 746px;
+}
